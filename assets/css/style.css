@@ -1,0 +1,53 @@
+#word {
+  margin: 2em 0;
+  text-align: center;
+}
+
+#word b {
+  visibility: hidden;
+}
+
+#word span {
+  display: inline-block;
+  border-bottom: 2px solid #ffff4d;
+  margin: 5px;
+  min-width: 1em;
+}
+
+#word span.yep b {
+  visibility: visible;
+}
+
+#word span.space {
+  border-bottom: 0;
+}
+
+#gameover {
+  display: none;
+}
+
+#won {
+  display: none;
+}
+
+body {
+  font-family: 'Henny Penny', cursive;
+  color: #ffff4d;
+  background-image: url("../images/hogwarts.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-shadow: #000 4px 4px;
+  font-size: 40px;
+  margin-top: 50px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 50px;
+}
+
+h3 {
+  margin-top:  50px;
+}
