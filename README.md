@@ -4,9 +4,7 @@ This is the third assignment for the Houston Coding Bootcamp Delivered by UT Aus
 
 HTML5 / CSS3 / JavaScript / Bootstrap Framework
 
-Hangman
-
-This is a game based on native JavaScript.
+Hangman Instructions:
 
 To start playing just press a letter on the keyboard.
 The word/phrase is diplayed on the screen as lines.
