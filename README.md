@@ -2,7 +2,7 @@
 
 This is the third assignment for the Houston Coding Bootcamp Delivered by UT Austin.
 
-HTML5 / CSS3 / JavaScript / Bootstrap Framework
+
 
 Hangman Instructions:
 
@@ -18,3 +18,18 @@ The theme of the game is Harry Potter.
 This means that the words/phrases are also related to Harry Potter.
 
 Give it a try and good luck!
+
+https://bronzeowl.github.io/hangman-game/
+
+## Getting Started
+
+In this assignment, we were required to recreate the game Hangman and dynamically update the HTML with JavaScript.
+
+## Built With
+
+* HTML5
+* CSS3
+* [Twitter-Bootstrap](http://getbootstrap.com/) - Framework
+* JavaScript 
+
+
