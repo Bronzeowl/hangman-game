@@ -6,10 +6,9 @@ In this assignment, we were required to recreate the game Hangman and dynamicall
 
 ## Getting Started
 
-Click on the following link to preview the completed assignment.  
-  https://bronzeowl.github.io/hangman-game/
+**Hangman** 
 
-Hangman Instructions:
+Instructions:
 
 To start playing just press a letter on the keyboard.
 The word/phrase is diplayed on the screen as lines.
@@ -23,6 +22,9 @@ The theme of the game is Harry Potter.
 This means that the words/phrases are related to Harry Potter.
 
 Give it a try and good luck!
+
+Click on the following link to preview the completed assignment.  
+  https://bronzeowl.github.io/hangman-game/
 
 ## Built With
 
