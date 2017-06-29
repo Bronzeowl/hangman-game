@@ -2,7 +2,12 @@
 
 This is the third assignment for the Houston Coding Bootcamp Delivered by UT Austin.
 
+In this assignment, we were required to recreate the game Hangman and dynamically update the HTML with JavaScript.
 
+## Getting Started
+
+Click on the following link to preview the completed assignment.  
+  https://bronzeowl.github.io/hangman-game/
 
 Hangman Instructions:
 
@@ -15,15 +20,9 @@ If you correctly guess the word/phrase you win the round and a counter is displa
 Your wins and losses are logged as your progress.
 
 The theme of the game is Harry Potter.
-This means that the words/phrases are also related to Harry Potter.
+This means that the words/phrases are related to Harry Potter.
 
 Give it a try and good luck!
-
-https://bronzeowl.github.io/hangman-game/
-
-## Getting Started
-
-In this assignment, we were required to recreate the game Hangman and dynamically update the HTML with JavaScript.
 
 ## Built With
 
