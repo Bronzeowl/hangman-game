@@ -6,10 +6,7 @@ body {
   background-color: #ececec;
   padding-bottom: 20px;
 }
-h2 {
-  text-align: center;
-}
-h3 {
+.main-content h3 {
   font-size: 24px;
 }
 .top-banner {
@@ -44,4 +41,5 @@ h3 {
 }
 /* Custom Media Queries */
 @media (max-width: 767.98px) {
+  }
  }
