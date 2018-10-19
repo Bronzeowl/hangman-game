@@ -25,6 +25,10 @@ Give it a try and good luck!
 
 Click on the following link to preview the completed assignment.  
   https://bronzeowl.github.io/hangman-game/
+  
+Noted Issues:
+Only works on desktop.
+Does not work on Firefox.
 
 ## Built With
 
