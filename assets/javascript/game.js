@@ -100,11 +100,10 @@ function evalLetter() {
 }
 
 function countDown() {
-  var counter = 3;
+  var counter = 10;
   var countDown = document.getElementById("countDown");
-  countDown.innerHTML = "The next round will start in 3 seconds.";
+  countDown.innerHTML = "The next round will start in 10 seconds.";
   var id;
-
 
   id = setInterval(function() {
       counter--;

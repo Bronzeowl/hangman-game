@@ -1,53 +1,50 @@
+
+body {
+  font-family: 'Henny Penny', cursive;
+  color: #000;
+  font-size: 24px;
+  background-color: #ececec;
+  padding-bottom: 20px;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  font-size: 24px;
+}
+.top-banner {
+  height: 263px;
+  width: 100%;
+  overflow: hidden;
+}
 #word {
   margin: 2em 0;
   text-align: center;
 }
-
 #word b {
   visibility: hidden;
 }
-
 #word span {
   display: inline-block;
-  border-bottom: 2px solid #ffff4d;
+  border-bottom: 2px solid #000;
   margin: 5px;
   min-width: 1em;
 }
-
 #word span.yep b {
   visibility: visible;
 }
-
 #word span.space {
   border-bottom: 0;
 }
-
 #gameover {
   display: none;
 }
-
 #won {
   display: none;
 }
-
-body {
-  font-family: 'Henny Penny', cursive;
-  color: #ffff4d;
-  background-image: url("../images/hogwarts.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  text-shadow: #000 4px 4px;
-  font-size: 40px;
-  margin-top: 50px;
-}
-
-h2 {
-  text-align: center;
-  margin-top: 200px;
-  font-size: 50px;
-}
-
-h3 {
-  margin-top:  50px;
-}
+/* Custom Media Queries */
+@media (max-width: 767.98px) {
+  body {
+    padding-bottom: 40px;
+  } 
+ }
